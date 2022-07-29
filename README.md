@@ -12,7 +12,10 @@ la misma.
 
 1. Alta en GitHub
 2. Como crear un proyecto: design thinking.
-3. Organizando un proyecto en GitHub: issues.
+3. Un proyecto en GitHub: repositorios y para qué sirven.
+5. Historias de usuario: escuchando al cliente
+3. Organizando un proyecto en GitHub: qué es un milestone y un producto
+   mínimamente viable.
 4. Markdown: editar un documento desde la web
 5. Como formular un proyecto: historias de usuario
 6. Qué son las ramas y cómo se usan.
