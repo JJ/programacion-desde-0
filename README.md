@@ -11,9 +11,9 @@ Cada uno de las lecciones tendrá un producto mínimamente viable, hecho durante
 la misma.
 
 1. Alta en GitHub
-2. Markdown: editar un documento desde la web
-3. Como crear un proyecto: design thinking.
-4. Organizando un proyecto en GitHub: issues.
+2. Como crear un proyecto: design thinking.
+3. Organizando un proyecto en GitHub: issues.
+4. Markdown: editar un documento desde la web
 5. Como formular un proyecto: historias de usuario
 6. Qué son las ramas y cómo se usan.
 
